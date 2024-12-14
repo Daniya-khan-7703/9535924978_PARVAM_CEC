@@ -12,7 +12,8 @@ int main()
     return 0;*/
 
 
-    int n=5,m=0;
+    double n=5,m=0;
+    scanf("%lf",&n);
     m=1;
     while(m<=10)
     {
